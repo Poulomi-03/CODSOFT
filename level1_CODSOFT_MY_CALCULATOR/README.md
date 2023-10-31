@@ -11,7 +11,7 @@ A user-friendly,simple and efficient calculator app built with HTML, CSS, and Ja
 
 ## Demo of the App
 
-Check Out the live demo of the calculator App [here](https://codesandbox.io/s/my-calculator-z7drlz?file=/index.html)
+Check Out the live demo of the calculator App [here](https://z7drlz.csb.app/)
 
 ## How to use this Calculator on Machine
 
