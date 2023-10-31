@@ -17,7 +17,7 @@ Check Out the live demo of the calculator App [here](https://z7drlz.csb.app/)
 
 <ol>
  <li>Cloning of the repository should be done into the Local Machine.</li>
- <li>Open the  `index.html` file in your Web Browser. </li>
+ <li>Open the  <span>index.html</span>s file in your Web Browser. </li>
  <li>Finally run the HTML file .</li>
 </ol>
 
