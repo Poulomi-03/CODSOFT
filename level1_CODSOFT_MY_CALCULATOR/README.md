@@ -25,7 +25,7 @@ Check Out the live demo of the calculator App [here](https://z7drlz.csb.app/)
 - **Numbers**: Type any number key (0-9) to input numbers.
 - **operators**: Type "+" for addition, "-" for subtraction, "\*" for multiplication, and "/" for division.
 - **Backspace**: Press "DE" button in order  to delete the last entered character.
-- **Clear**: Press "AC" button in order to clear the screen.
+- **Clear**: Press "AC" button in order to  all clear the screen.
 - **Evaluate**: Press "=" button in order to evaluate the expression.
 
 
