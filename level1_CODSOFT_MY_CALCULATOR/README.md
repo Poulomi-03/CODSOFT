@@ -35,7 +35,7 @@ Contributions in this are always welcome.Feel free to point an issue or submit a
 
 ## Author
 
-Created with ❤️ by [Poulomi Bhattacharya](https://github.com/poulomi-03)
+Created by [Poulomi Bhattacharya](https://github.com/poulomi-03)
 
  
  ---
