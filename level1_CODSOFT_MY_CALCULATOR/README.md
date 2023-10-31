@@ -15,9 +15,11 @@ Check Out the live demo of the calculator App [here](https://z7drlz.csb.app/)
 
 ## How to use this Calculator on Machine
 
-1.Cloning of the repository should be done into the Local Machine.
-2.Open the  `index.html` file in your Web Browser.
-3.Finally run the HTML file .
+<ol>
+ <li>Cloning of the repository should be done into the Local Machine.</li>
+ <li>Open the  `index.html` file in your Web Browser. </li>
+ <li>Finally run the HTML file .</li>
+</ol>
 
 ## Shortcuts of the App
 
