@@ -4,9 +4,9 @@ A user-friendly,simple and efficient calculator app built with HTML, CSS, and Ja
 
 ## Features provided
 
-- Addition,subtraction division and multiplication operations.<br>
-- Values can deleted all at once using AC button<br>
-- Single values can also be deleted using the DE button.<br>
+- Addition,subtraction division and multiplication operations. <br>
+- Values can deleted all at once using AC button. <br>
+- Single values can also be deleted using the DE button. <br>
 - Has transparent and hover effect.
 
 ## Demo of the App
