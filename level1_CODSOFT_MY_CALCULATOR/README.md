@@ -1,17 +1,17 @@
 # Calculator App
 
-A user-friendly,simple and efficient calculator app built with HTML, CSS, and JavaScript which is seamless to use. We can perform quick calculations effortlessly with this calculator.It has a display screen in order to display the user inputs and results.
+A user-friendly,simple and efficient calculator app built with HTML, CSS, and JavaScript which is seamless to be used. We can perform quick calculations effortlessly with this calculator.It has a display screen in order to display the user inputs and results.
 
 ## Features provided
 
-- Addition,subtraction division and multiplication operations. <br>
+- Addition,subtraction ,division and multiplication operations. <br>
 - Values can deleted all at once using AC button. <br>
 - Single values can also be deleted using the DE button. <br>
 - Has transparent and hover effect.
 
 ## Demo of the App
 
-Check Out the live demo of the calculator App [here](https://z7drlz.csb.app/)
+Check Out the live demo of the calculator App [Over here](https://z7drlz.csb.app/)
 
 ## How to use this Calculator on Machine
 
