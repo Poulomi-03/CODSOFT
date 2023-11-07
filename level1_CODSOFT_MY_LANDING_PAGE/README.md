@@ -1,5 +1,5 @@
 # Sound Effects Website
-[SoundSynergy](./images/my_screenshot.png)
+![SoundSynergy](./images/my_screenshot.png)
 
 Welcome to the SoundSynergy website!! This website is dedicated to provide the best quality and quantity of sound effects possible for your stories.The tag line of this website goes on like ' Your stories &amp; our Sound '.
 
