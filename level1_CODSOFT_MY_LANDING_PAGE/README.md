@@ -11,7 +11,7 @@ Welcome to the SoundSynergy website!! This website is dedicated to provide the b
 
 ## Demo
 
-To preview this website in its actual form and action,you can visit [SoundSynergy Demo] (https://ks49qk.csb.app/) here.
+To preview this website in its actual form and action,you can visit [SoundSynergy Demo](https://ks49qk.csb.app/) here.
 
 ## Screenshots
 
