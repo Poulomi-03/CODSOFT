@@ -15,7 +15,7 @@ To preview this website in its actual form and action,you can visit [SoundSynerg
 
 ## Screenshots
 
-view the logo of the page [logo](./images/logo_img.png) here.
+view the logo of the page [logo](./images/logo_img.png) here. <br>
 view the background image of the page[backgroundimage](https://res.cloudinary.com/dxfq3iotg/image/upload/v1566917764/Add_a_heading.png) here.
 
 ## About us and Explore with Us
