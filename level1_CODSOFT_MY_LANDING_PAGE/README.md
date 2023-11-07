@@ -42,9 +42,9 @@ The footer section provides one  with number of links to connect with us and hen
 
 - HTML5
 - CSS3
-- used HTML5 to structure the layout of the page.
-- created the columns,divided sections and arranged the items using `<div>` tag.
-- added classes ,id's and anchor tags so as to give the page a real time apprearence.
+- Used HTML5 to structure the layout of the page.
+- Created the columns,divided sections and arranged the items using `<div>` tag.
+- Added classes ,id's and anchor tags so as to give the page a real time apprearence.
 - Also added headers and footers to the website.
 - In CSS, added the required padding, margins , boxes and as well as color palette.
 
