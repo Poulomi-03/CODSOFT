@@ -34,7 +34,7 @@ The footer section provides one  with number of links to connect with us and hen
 
 ## How to Run in local system
 
-1. Clone the repository: `git clone https://github.com/poulomi-03/pet-adoption.git`
+1. Clone the repository: `git clone https://github.com/poulomi-03/landing-page.git`
 2. Open the `index.html` file in your preferred web browser.
 3. Explore the website and find your suitable sound effect!!
 
