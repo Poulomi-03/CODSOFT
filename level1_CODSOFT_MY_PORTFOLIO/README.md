@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This Portfolio Website contains the website creator's portfolio including sections like `Header`,`About`,`Skills`,`My Projects`, ` My Resume`,`Footer containing the copyright notice`.
+This Portfolio Website contains the website creator's portfolio including sections like `Header section with name and logo`,`About`,`Skills`,`My Projects`, ` My Resume`,`Footer containing the copyright notice`.
 
 
 ## Table of Contents
