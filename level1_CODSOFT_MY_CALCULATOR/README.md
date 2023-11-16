@@ -12,7 +12,7 @@ A user-friendly,simple and efficient calculator app built with HTML, CSS, and Ja
 ## Technologies Used
 - HTML5
 - CSS3
-- JAVASCRIPT
+- JavaScript
   
 ## Demo of the App
 
