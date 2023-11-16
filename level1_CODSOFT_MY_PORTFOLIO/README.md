@@ -63,6 +63,8 @@ If you'd like to customize or modify the website for your own use:
 3. Replace the project images in the portfolio section with your own projects.
 4. Host the website using a web hosting service of your choice.
 
+## Screenshots
+The relevant screenshots have been added in the [images] folder of this project.
 
 ## Contact Me
 
