@@ -48,6 +48,12 @@ The footer section provides one  with number of links to connect with us and hen
 - Also added headers and footers to the website.
 - In CSS, added the required padding, margins , boxes and as well as color palette.
 
+
+## Acknowledgements
+
+Took ideas and creative part of the project from [Dribbble](https://dribbble.com/tags/web-layout)
+
+
 &copy; 2023 SoundSynergy. All rights reserved.
 
 ---
