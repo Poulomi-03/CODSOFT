@@ -10,6 +10,7 @@ This Portfolio Website contains the website creator's portfolio including sectio
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
+- [Screenshots](#Screenshots)
 - [Contact](#contact)
 
 
