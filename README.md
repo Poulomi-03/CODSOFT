@@ -17,7 +17,7 @@ This contains all the tasks and projects assigned by the organisation.
 
 **Calculator**
 
-- [Task 3](https://github.com/Rj1221/CODSOFT/tree/main/level1_CODSOFT_MY_CALCULATOR)
+- [Task 3](https://github.com/poulomi-03/CODSOFT/tree/main/level1_CODSOFT_MY_CALCULATOR)
 
 ---
 
