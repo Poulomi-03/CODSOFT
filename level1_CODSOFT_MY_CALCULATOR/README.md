@@ -8,7 +8,12 @@ A user-friendly,simple and efficient calculator app built with HTML, CSS, and Ja
 - Values can deleted all at once using AC button. <br>
 - Single values can also be deleted using the DE button. <br>
 - Has transparent and hover effect.
-
+  
+## Technologies Used
+- HTML5
+- CSS3
+- JAVASCRIPT
+  
 ## Demo of the App
 
 Check Out the live demo of the calculator App [Over here](https://z7drlz.csb.app/)
