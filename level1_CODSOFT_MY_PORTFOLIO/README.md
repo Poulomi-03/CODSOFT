@@ -64,7 +64,7 @@ If you'd like to customize or modify the website for your own use:
 4. Host the website using a web hosting service of your choice.
 
 ## Screenshots
-The relevant screenshots have been added in the [images] folder of this project.
+The relevant screenshots have been added in the [images](#images)folder of this project.
 
 ## Contact Me
 
